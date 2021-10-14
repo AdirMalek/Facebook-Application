@@ -1,4 +1,4 @@
-# Facebook-Application
+# Facebook Desktop Application
 ·	Programmed in C#.
 
 ·	Using with Facebook API.
